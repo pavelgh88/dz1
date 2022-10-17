@@ -1,0 +1,13 @@
+body{
+    background:rgb(104, 101, 101);
+} 
+.img_class {
+
+    float:left;
+    
+    margin: 10px 10px 10px 650px;   
+    }
+.text{
+    float:right;
+    margin: 10px 650px 10px  0;
+}    
